@@ -10,9 +10,7 @@ For this program I used Visual Studio Code as the IDE, I used git to track any c
 
 The programing language I used was python version 2.7.16
 
-
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [StackOverflow] https://stackoverflow.com/questions/8917885/which-version-of-python-do-i-have-installed
 * [GitHub] https://github.com/elisabeth-billman/HelloWorld
