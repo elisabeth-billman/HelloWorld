@@ -1,30 +1,18 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
-{Provide a description the game that you wrote. Describe how to play your game.}
-
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the game being played and a walkthrough of the code.}
+Here is an example of the "hello world" program. This program helped me get more familiar with this enviorment and how to commit and upload changes to gitHub. I also learned how to use the .gitingnore file type so this way I can be more particular with what is uploaded to gitHub. 
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+For this program I used Visual Studio Code as the IDE, I used git to track any changes made to the file, and uploaded the program to gitHub. 
 
-{Describe the programming language that you used and any libraries.}
+The programing language I used was python version 2.7.16
+
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
-
-# Future Work
-
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* [StackOverflow] https://stackoverflow.com/questions/8917885/which-version-of-python-do-i-have-installed
+* [GitHub] https://github.com/elisabeth-billman/HelloWorld
