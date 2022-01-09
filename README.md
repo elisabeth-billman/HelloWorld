@@ -1,8 +1,8 @@
 # Overview
 
-Here is an example of the "hello world" program. This program helped me get more familiar with this enviorment and how to commit and upload changes to gitHub. I also learned how to use the .gitingnore file type so this way I can be more particular with what is uploaded to gitHub. 
+Here is an example of the "hello world" program. This program helped me get more familiar with this environment and how to commit and upload changes to gitHub. I also learned how to use the .gitingnore file type so this way I can be more particular with what is uploaded to gitHub. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video]https://youtu.be/x0AukbUDFX0
 
 # Development Environment
 
@@ -12,5 +12,5 @@ The programing language I used was python version 2.7.16
 
 # Useful Websites
 
-* [StackOverflow] https://stackoverflow.com/questions/8917885/which-version-of-python-do-i-have-installed
-* [GitHub] https://github.com/elisabeth-billman/HelloWorld
+* [StackOverflow]https://stackoverflow.com/questions/8917885/which-version-of-python-do-i-have-installed
+* [GitHub]https://github.com/elisabeth-billman/HelloWorld
